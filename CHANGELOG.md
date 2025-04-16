@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/gazz/test-release-please/compare/v2.0.0...v2.1.0) (2025-04-16)
+
+
+### Features
+
+* minor break in v2 ([008f652](https://github.com/gazz/test-release-please/commit/008f6520b31d27a4ebc610b40919c0dfe1450a02))
+
+
+### Bug Fixes
+
+* we do need the target branch for non main release ([16ea194](https://github.com/gazz/test-release-please/commit/16ea194f9f9a1b80987dda1c833fe06e1297540c))
+
 ## 2.0.0 (2025-04-16)
 
 
