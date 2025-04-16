@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/gazz/test-release-please/compare/v1.0.0...v1.0.1) (2025-04-16)
+
+
+### Bug Fixes
+
+* split main & v2 release please configs ([7343af7](https://github.com/gazz/test-release-please/commit/7343af704836ddafffbbb26f6a84e7fa0876ed6e))
+
 ## 1.0.0 (2025-04-16)
 
 
