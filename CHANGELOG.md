@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/gazz/test-release-please/compare/v1.0.2...v3.0.0) (2025-04-16)
+
+
+### Features
+
+* minor break in main ([2561dee](https://github.com/gazz/test-release-please/commit/2561deebb847140bab417dff9ada0e48f4e94bbc))
+
+
+### Miscellaneous Chores
+
+* release 3.0.0 ([1d07aed](https://github.com/gazz/test-release-please/commit/1d07aede5a8c1e9f0cc935e859e8fba9a7ed9861))
+
 ## [1.0.2](https://github.com/gazz/test-release-please/compare/v1.0.1...v1.0.2) (2025-04-16)
 
 
