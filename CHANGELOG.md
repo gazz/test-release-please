@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/gazz/test-release-please/compare/v1.0.1...v1.0.2) (2025-04-16)
+
+
+### Bug Fixes
+
+* do not use target-branch for main ([4fddbd4](https://github.com/gazz/test-release-please/commit/4fddbd43a7795dfa6a64bfc291aefc48c63ca9a0))
+* remove v2 manifest from main ([c5d9917](https://github.com/gazz/test-release-please/commit/c5d9917481f89e52a93ef6a21fe7d238058ce47a))
+
 ## [1.0.1](https://github.com/gazz/test-release-please/compare/v1.0.0...v1.0.1) (2025-04-16)
 
 
